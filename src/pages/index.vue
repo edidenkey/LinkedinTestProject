@@ -1,5 +1,5 @@
 <template>
-  <IntlLanguageTest />
+  <DraggableTest />
 </template>
 
 <script lang="ts" setup>
